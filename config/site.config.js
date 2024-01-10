@@ -33,7 +33,7 @@ module.exports = {
   // googleFontMono - the monospace font used in onedrive-vercel-index.
   googleFontMono: '',
   // googleFontLinks -  an array of links for referencing the google font assets.
-  googleFontLinks: ['https://cmbill.github.io/lxgw-wenkai-screen-web/style.css'],
+  googleFontLinks: ['https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-web/style.css'],
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
